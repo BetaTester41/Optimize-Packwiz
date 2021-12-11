@@ -6,12 +6,13 @@ My (auto-updating) mod pack with the help of Packwiz. Only compatible with Multi
   - [1.18.x](../../releases/tag/1.18)
 - Drag and drop the ZIP file into you MultiMC window.
 - Done!
-### Adding Custom Mods
+## Adding Custom Mods
 - Add the Modrith (project ID), Curseforge (project ID), and/or GitHub Releases (owner/repo-name) in to mods.txt. 
   - Format each of them correctly.
   - The formatting for each of them is in the parenthesis.
 - (Using Python), run the file `generate.py`
-- Follow the instruction [here](https://packwiz.infra.link/tutorials/getting-started/) for how to distrube the file.
+- Follow the on screen instrustions.
+- Learn more [here](https://packwiz.infra.link/tutorials/getting-started/) for how to distrube the file.
 ## Credits
 [Packwiz](https://github.com/comp500/packwiz) by [comp500](https://github.com/comp500)
 
