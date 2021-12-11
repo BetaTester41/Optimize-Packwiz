@@ -3,8 +3,7 @@ My (auto-updating) mod pack with the help of Packwiz. Only compatible with Multi
 
 ## Installation
 - Download the ZIP file for your Minecraft version.
-  - [1.17.1](../../releases/tag/1.17.1)
-  - [1.16.5](../../releases/tag/1.16.5)
+  - [1.18.x](../../releases/tag/1.18)
 - Drag and drop the ZIP file into you MultiMC window.
 - Done!
 ### Adding Custom Mods
@@ -15,4 +14,5 @@ My (auto-updating) mod pack with the help of Packwiz. Only compatible with Multi
 - Follow the instruction [here](https://packwiz.infra.link/tutorials/getting-started/) for how to distrube the file.
 ## Credits
 [Packwiz](https://github.com/comp500/packwiz) by [comp500](https://github.com/comp500)
+
 [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized) by [Madis0](https://github.com/Madis0/fabulously-optimized)
