@@ -7,7 +7,7 @@ My (auto-updating) mod pack with the help of Packwiz. Only compatible with Multi
 - Drag and drop the ZIP file into you MultiMC window.
 - Done!
 ## Adding Custom Mods
-- Add the Modrith (project ID), Curseforge (project ID), and/or GitHub Releases (owner/repo-name) in to mods.txt. 
+- Add the Modrith (project ID), Curseforge (project ID), and/or GitHub Releases (owner/repo-name) into a new file called `mods.txt`. 
   - Format each of them correctly.
   - The formatting for each of them is in the parenthesis.
 - (Using Python), run the file `generate.py`
