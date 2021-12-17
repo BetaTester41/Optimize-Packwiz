@@ -1,0 +1,149 @@
+hash-format = "sha256"
+
+[[files]]
+file = "generate.py"
+hash = "016b2b27bee16cc9cd791081e1ef965396d60cb1b3c7c28d67f81785eb290ea3"
+
+[[files]]
+file = "mods.txt"
+hash = "7bd7c9bc08fdc1d5ac0855e10ee023b62925ddacb01d1a273e6ec12ecd392a96"
+
+[[files]]
+file = "mods/antighost.toml"
+metafile = true
+
+[[files]]
+file = "mods/autoreconnect.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-beds.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.toml"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.toml"
+metafile = true
+
+[[files]]
+file = "mods/camera-utils.toml"
+metafile = true
+
+[[files]]
+file = "mods/capes.toml"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+metafile = true
+
+[[files]]
+file = "mods/completeconfig.toml"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.toml"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.toml"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar.toml"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.toml"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.toml"
+metafile = true
+
+[[files]]
+file = "mods/in-game-account-switcher.toml"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.toml"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.toml"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+metafile = true
+
+[[files]]
+file = "mods/malilib.toml"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+metafile = true
+
+[[files]]
+file = "mods/multiconnect.toml"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.toml"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.toml"
+metafile = true
+
+[[files]]
+file = "mods/ugly-scoreboard-fix.toml"
+metafile = true
+
+[[files]]
+file = "packwiz.exe"
+hash = "c91c31b862eb16d5d6b0a7cad0559b839ef9144fffc3a38ac643246e11c1f9b3"

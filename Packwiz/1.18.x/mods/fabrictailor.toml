@@ -1,0 +1,13 @@
+name = "FabricTailor"
+filename = "fabrictailor-1.7.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3549/260/fabrictailor-1.7.3.jar"
+hash-format = "murmur2"
+hash = "3664858438"
+
+[update]
+[update.curseforge]
+file-id = 3549260
+project-id = 390114

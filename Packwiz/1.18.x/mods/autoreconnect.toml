@@ -1,0 +1,13 @@
+name = "AutoReconnect"
+filename = "autoreconnect-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3452/896/autoreconnect-1.3.2.jar"
+hash-format = "murmur2"
+hash = "3016890605"
+
+[update]
+[update.curseforge]
+file-id = 3452896
+project-id = 406211

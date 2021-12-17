@@ -1,0 +1,13 @@
+name = "multiconnect"
+filename = "multiconnect-1.5.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sfEDKnlo/versions/1.5.6/multiconnect-1.5.6.jar"
+hash-format = "sha512"
+hash = "c51410f8f210b0f82d68cabfbf625751e4f2fb8d509bfa1220e3308fef0e7bedaba8cf7230c93130d6f07d0288b20e51587feee6a7321f3c1db76c0eac73dd36"
+
+[update]
+[update.modrinth]
+mod-id = "sfEDKnlo"
+version = "ZWeapNE9"
