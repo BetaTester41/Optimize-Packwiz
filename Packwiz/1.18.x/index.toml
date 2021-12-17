@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods.txt"
-hash = "7bd7c9bc08fdc1d5ac0855e10ee023b62925ddacb01d1a273e6ec12ecd392a96"
-
-[[files]]
 file = "mods/antighost.toml"
 hash = "99d0687e8d1da22de0944a12724b8407000307b1c73c54f531f5298cfa38821c"
 metafile = true
@@ -173,7 +169,3 @@ metafile = true
 file = "mods/ugly-scoreboard-fix.toml"
 hash = "84d1a7a7386bfaddbef0a7b8f7fefc948b420d63c2378acdf4cbf02c7e8668fa"
 metafile = true
-
-[[files]]
-file = "packwiz.exe"
-hash = "c91c31b862eb16d5d6b0a7cad0559b839ef9144fffc3a38ac643246e11c1f9b3"

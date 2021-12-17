@@ -1,0 +1,6 @@
+.git/**
+.gitattributes
+.gitignore
+packwiz.exe
+mods.txt
+generate.py
