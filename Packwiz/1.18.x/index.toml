@@ -86,11 +86,6 @@ hash = "63285f6ca3ccda43293855fac8259fb31ab0f7a66ce956dca30b312ee650e1ba"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.toml"
-hash = "ee1384200c35fee039a2a6f95a62a7de25340cd831521a0a90ab82b94b36e951"
-metafile = true
-
-[[files]]
 file = "mods/fps-reducer.toml"
 hash = "b640cbe358ce5a1da08f774b2632248f6244f88c47d0617be1523d525d99fab4"
 metafile = true
