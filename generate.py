@@ -31,7 +31,7 @@ if os.name == 'nt':
             with open('pack.toml', 'a') as file:
                 file.write('\n[options]\nno-internal-hashes = "true"')
     #Main script.
-    value = input('Welcome to BetaTester41\'s Packwiz Maker! Please select from the following options:\n1. Import mods from text file. (Curseforge, Modrinth, GitHub Releases)\n2. Add custom mods using custom URL. (Auto Update not supported!)\n3. Exit\nChoice: ')
+    value = input('Welcome to BetaTester41\'s Packwiz Maker! Please select from the following options:\n1. Import mods from text file. (Curseforge, Modrinth, GitHub Releases)\n2. Add custom mods using custom URL. (Auto Update not supported!)\n3. Generate for distribution\n4. Exit\nChoice: ')
     while not value.isnumeric() or int(value) > 3:
         #Reject invalid input.
         value = input('Not Valid! Try Again: ')
@@ -97,6 +97,9 @@ if os.name == 'nt':
             new.write(final)
         sp.run(['packwiz.exe', 'refresh'], stdout=sp.DEVNULL, stderr=sp.DEVNULL)
     elif int(value) == 3:
+        sp.run(['packwiz.exe', 'refresh', '--build'], stdout=sp.DEVNULL, stderr=sp.DEVNULL)
+        print('\033[32m', 'Build Successful!', '\033[0m')
+    elif int(value) == 4:
         exit(0)
     else:
         print('That\'s not supposed to happen!')

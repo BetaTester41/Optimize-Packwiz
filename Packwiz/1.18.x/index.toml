@@ -1,147 +1,177 @@
 hash-format = "sha256"
 
 [[files]]
-file = "generate.py"
-hash = "016b2b27bee16cc9cd791081e1ef965396d60cb1b3c7c28d67f81785eb290ea3"
-
-[[files]]
 file = "mods.txt"
 hash = "7bd7c9bc08fdc1d5ac0855e10ee023b62925ddacb01d1a273e6ec12ecd392a96"
 
 [[files]]
 file = "mods/antighost.toml"
+hash = "99d0687e8d1da22de0944a12724b8407000307b1c73c54f531f5298cfa38821c"
 metafile = true
 
 [[files]]
 file = "mods/autoreconnect.toml"
+hash = "8fbb2d8c6897b7588bf163ca6cdc3712956ede00e4a45b2d0b8b571c444c19d0"
 metafile = true
 
 [[files]]
 file = "mods/better-beds.toml"
+hash = "880fa8a95055c3000547c3a1eb5106e1838f508efa8676207ebeb6370703d954"
 metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.toml"
+hash = "ce778bbe621a30226c5deb7a4e77700ddb512b1352792ea3f495e2dfea582e0e"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.toml"
+hash = "3ad131248f213d437e93be37e3b6964250dc06b3e071998365179e2fb1c4eff6"
 metafile = true
 
 [[files]]
 file = "mods/camera-utils.toml"
+hash = "bebc5739dacc87384dc9a2b4e6f21831b62d7ed51112e3e55f983ae8a960840d"
 metafile = true
 
 [[files]]
 file = "mods/capes.toml"
+hash = "eef7bb485e3256f64c611371f1ae5df7606929cc22b7a9d510c8c3adb542bd2d"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.toml"
+hash = "55f401b4c8570300cc98c577d4c757b1b0a9d332deb64c6d6966b02767007614"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
+hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
 metafile = true
 
 [[files]]
 file = "mods/completeconfig.toml"
+hash = "ee0e74082d6efae74eb702da33b2b798557ee91014f2c08b68afc6552d64820b"
 metafile = true
 
 [[files]]
 file = "mods/cull-leaves.toml"
+hash = "9303f6ef825ac9dac488d37017ed6ef9eec0572e0e87133eb4450de4182d7af2"
 metafile = true
 
 [[files]]
 file = "mods/dashloader.toml"
+hash = "3c2a5355d761d6377834dfcf40336bd18d19efbe504142586b796dc904cead64"
 metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar.toml"
+hash = "0045160c6a0c7bd9dfb6c2f38a45c555cd3a04a8f9f2e6b8eb71830419c5eb3e"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
+hash = "114395acdb903faf33561e5e653d1b4a0deed26af32781cdbb7eef2965aff1fe"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
+hash = "e1e489ae4e66ec2e42d0aca91fa7c16cec0ecb835c3f1c7dab86f4372f2b2421"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
+hash = "2e585b6ce11bc8f187a3178debba7086dfebdd37c667aee1dd46d627ab94e083"
 metafile = true
 
 [[files]]
 file = "mods/fabrictailor.toml"
+hash = "63285f6ca3ccda43293855fac8259fb31ab0f7a66ce956dca30b312ee650e1ba"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
+hash = "ee1384200c35fee039a2a6f95a62a7de25340cd831521a0a90ab82b94b36e951"
 metafile = true
 
 [[files]]
 file = "mods/fps-reducer.toml"
+hash = "b640cbe358ce5a1da08f774b2632248f6244f88c47d0617be1523d525d99fab4"
 metafile = true
 
 [[files]]
 file = "mods/in-game-account-switcher.toml"
+hash = "d2e59a07f8f623ba2bf930720efce053090a44bf88d1d395ef6533ad53fcf98b"
 metafile = true
 
 [[files]]
 file = "mods/inspecio.toml"
+hash = "bce6867f72621654ca3ca06cebec58ca7ecd3d0104a20dd97e83c1aab1f9c81a"
 metafile = true
 
 [[files]]
 file = "mods/ksyxis.toml"
+hash = "c0d023b5dcc2f2f3021c5be6bfadfc425b2ca72460b24232b45df2975dabc36e"
 metafile = true
 
 [[files]]
 file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
 metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
+hash = "465afb925dc6ee39704b7456750b7ada5d1000b951faadfab590efb4c5342049"
 metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
+hash = "a0b0d6b6e4d8ec2a80c60665ae6f4d2a7d0c3b7dbab75ef9f03dbf616a5b17cc"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
+hash = "b287dbc2f91dc9cc16e68839fd795d190fd87d752971a72d07c1d600136ba955"
 metafile = true
 
 [[files]]
 file = "mods/multiconnect.toml"
+hash = "763dd9845277fb88566a1d300e5099e55c1d9770711a4c2f5a520592e461a496"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
+hash = "3953018927bb4f7464d1c9a9a19e84e2b59a5e387ffe5ec2e79f01e8d7bb0996"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
+hash = "d4581cbd048ec6d30f4ac9349abe3eb36e7f3a400cf8282779a1177c0a0292b9"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
+hash = "d9aee3833ae4d543f820fda7f7989bee36b34556d031e614b2c4ab7e82620ff2"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
+hash = "5503fe0648bb3a63076467152d9a8acd1e8735118534d368cbfd6fd84bb4693c"
 metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
+hash = "3fba2d404a85b60f3f82e8014f2560dcf55cc62e5501309929171728e602de3e"
 metafile = true
 
 [[files]]
 file = "mods/tooltipfix.toml"
+hash = "28b48053e5e932741e9a321e2f62d8595fe52e6c1ced9fbda3e0ab80b43030ee"
 metafile = true
 
 [[files]]
 file = "mods/ugly-scoreboard-fix.toml"
+hash = "84d1a7a7386bfaddbef0a7b8f7fefc948b420d63c2378acdf4cbf02c7e8668fa"
 metafile = true
 
 [[files]]
