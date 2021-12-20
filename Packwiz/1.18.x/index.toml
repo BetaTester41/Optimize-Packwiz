@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "a76a300ddef31a03adf0eaeaed90b56c6687edc2611912c5d6c682046d0f2eec"
+hash = "b1d35345901743d3fe0b31f26928bac543d10eb9a16d49a5b3649343f3484779"
 metafile = true
 
 [[files]]
