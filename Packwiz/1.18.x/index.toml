@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.toml"
-hash = "3ad131248f213d437e93be37e3b6964250dc06b3e071998365179e2fb1c4eff6"
+hash = "78bdd72dc7a35dc19ac82f9b400ddbaf587fed2dbf2731d61063cdf49538a0af"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.toml"
-hash = "55f401b4c8570300cc98c577d4c757b1b0a9d332deb64c6d6966b02767007614"
+hash = "1a722a1dd8932d9f319edfa48df967ef7278566ab9ccb6d7e2dd3eeb883ef415"
 metafile = true
 
 [[files]]
@@ -77,12 +77,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "2e585b6ce11bc8f187a3178debba7086dfebdd37c667aee1dd46d627ab94e083"
+hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
 metafile = true
 
 [[files]]
 file = "mods/fabrictailor.toml"
 hash = "63285f6ca3ccda43293855fac8259fb31ab0f7a66ce956dca30b312ee650e1ba"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "a76a300ddef31a03adf0eaeaed90b56c6687edc2611912c5d6c682046d0f2eec"
 metafile = true
 
 [[files]]
@@ -98,6 +103,16 @@ metafile = true
 [[files]]
 file = "mods/inspecio.toml"
 hash = "bce6867f72621654ca3ca06cebec58ca7ecd3d0104a20dd97e83c1aab1f9c81a"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.toml"
+hash = "5841e176057ffa9f0716ec213a32d1dd77422ec32c1fc8b19adf6673c8735d69"
+metafile = true
+
+[[files]]
+file = "mods/kronhud.toml"
+hash = "fcdc3af22f2c6d7bbea340a18ee4d398bf582ef01101e8b15b1fb6fc51e24eaa"
 metafile = true
 
 [[files]]
@@ -122,12 +137,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "b287dbc2f91dc9cc16e68839fd795d190fd87d752971a72d07c1d600136ba955"
+hash = "113730a58c9e46dbf8b17632baf1fbafe4e24ccbb8d8b3e9898bf3f5a38f435c"
 metafile = true
 
 [[files]]
 file = "mods/multiconnect.toml"
-hash = "763dd9845277fb88566a1d300e5099e55c1d9770711a4c2f5a520592e461a496"
+hash = "934efed75bbf6a7992d5718f145707ae83c2b27cb8fe8d9b03ffabb3e64b97bb"
 metafile = true
 
 [[files]]

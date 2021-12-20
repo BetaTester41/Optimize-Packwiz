@@ -96,6 +96,7 @@ if os.name == 'nt':
         with open('mods/'+ modname.replace(' ', '-') + '.toml', 'w') as new:
             new.write(final)
         sp.run(['packwiz.exe', 'refresh'], stdout=sp.DEVNULL, stderr=sp.DEVNULL)
+        os.remove('tmp.jar')
     elif int(value) == 3:
         sp.run(['packwiz.exe', 'refresh', '--build'], stdout=sp.DEVNULL, stderr=sp.DEVNULL)
         print('\033[32m', 'Build Successful!', '\033[0m')

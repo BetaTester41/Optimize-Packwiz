@@ -1,0 +1,13 @@
+name = "KronHUD"
+filename = "KronHUD-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3573/476/KronHUD-2.0.1.jar"
+hash-format = "murmur2"
+hash = "235484743"
+
+[update]
+[update.curseforge]
+file-id = 3573476
+project-id = 403941

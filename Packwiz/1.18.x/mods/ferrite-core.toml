@@ -1,0 +1,8 @@
+name = "Ferrite Core"
+filename = "ferritecore-4.0.0-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/904269556216913991/917324926493528064/ferritecore-4.0.0-fabric.jar"
+hash-format = "sha512"
+hash = "3d9b73284191331ed3a5a0c42d01cdd2c87e97835884e74e0b9b7e2fca2b2f52449a2cc220923841db6ae4789363ab342f19dddcd602ea7c6c987a562a834b25"
