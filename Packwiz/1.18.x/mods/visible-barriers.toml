@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://media.forgecdn.net/files/3478/580/visiblebarriers-1.3.1.jar"
-hash-format = "sha512"
-hash = "f97c5ffd0fb2803b665fd0968744e6cbd4122c60e0f710b6bac9001f6ddd231af5fe3460723ec5ecd18248594513d8e878d321b0dd7e59bf0fc3261d7e1a0ca3"
+hash-format = "sha256"
+hash = "ec5c4b17d7a07d0cbab653e820dd9ee6714f9f9359cfbabdf65f16812cc0b372"

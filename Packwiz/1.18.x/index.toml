@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/loading-timer.toml"
-hash = "cb7130b2e5be43e81e9e351f038e0fc9e7fd8fcc617da03315c1ea6bac3d0609"
+hash = "e659e53591948de09bb1160228e5be6f32eec4bc15c11c6649aea396d3f198df"
 metafile = true
 
 [[files]]
@@ -163,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-crashes.toml"
 hash = "07eb6ee9b6f6310eab0ab1b1e78938b1cf4bbb5cfe26a2f5328b3acaee5a0781"
-metafile = true
-
-[[files]]
-file = "mods/quitconfirm.toml"
-hash = "2e2e1cfaa9dbf63e23419b341cfee069cc688410360f1451a45cacbb4a9883fc"
 metafile = true
 
 [[files]]
@@ -207,5 +202,5 @@ metafile = true
 
 [[files]]
 file = "mods/visible-barriers.toml"
-hash = "c8577b52a0590f6f51dce8b0dfc473c7edf118811e26ffafbcd2be538b6efc5b"
+hash = "369ef0357710ac7b92c46d30af4a1a94fb1f439fab23f2bd08474e146bbca4db"
 metafile = true
