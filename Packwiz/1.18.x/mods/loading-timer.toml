@@ -1,0 +1,8 @@
+name = "Loading-Timer"
+filename = "Loading-Timer-1.5+21w42a.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MrzGakdv/versions/v1.5/Loading-Timer-1.5+21w42a.jar"
+hash-format = "sha512"
+hash = "27b8bb7a8595adba1627d6ed723a914bcbbc4f9a2df0ca28dfa6238b37c11970bfef19667a73f35178b2fe11c9ffcd03babf20fc6b3d75c2f45aa921995f6bbd"

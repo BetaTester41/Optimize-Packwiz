@@ -17,7 +17,7 @@ if os.name == 'nt':
         dep = 'y'
     #Download latest version of packwiz.
     print('Downloading latest version of Packwiz...')
-    sp.run(['curl.exe', '-L', 'https://nightly.link/comp500/packwiz/workflows/go/master/Windows%2064-bit.zip', '-o', 'update.zip', '-k'], stdout=sp.DEVNULL, stderr=sp.DEVNULL)
+    sp.run(['curl.exe', '-L', 'https://nightly.link/packwiz/packwiz/workflows/go/master/Windows%2064-bit.zip', '-o', 'update.zip', '-k'], stdout=sp.DEVNULL, stderr=sp.DEVNULL)
     sp.run(['powershell.exe', '-c', 'Expand-Archive','update.zip', '-DestinationPath', '.', '-Force'], stdout=sp.DEVNULL, stderr=sp.DEVNULL)
     os.remove('update.zip')
     sp.call(['packwiz.exe', 'init'])
@@ -31,8 +31,8 @@ if os.name == 'nt':
             with open('pack.toml', 'a') as file:
                 file.write('\n[options]\nno-internal-hashes = "true"')
     #Main script.
-    value = input('Welcome to BetaTester41\'s Packwiz Maker! Please select from the following options:\n1. Import mods from text file. (Curseforge, Modrinth, GitHub Releases)\n2. Add custom mods using custom URL. (Auto Update not supported!)\n3. Generate for distribution\n4. Exit\nChoice: ')
-    while not value.isnumeric() or int(value) > 3:
+    value = input('Welcome to BetaTester41\'s Packwiz Maker! Please select from the following options:\n1. Import mods from text file. (Curseforge, Modrinth, GitHub Releases)\n2. Add custom mods using custom URL. (Auto Update not supported!)\n3. Generate for distribution\n4. Update All\n5. Exit\nChoice: ')
+    while not value.isnumeric() or int(value) > 5:
         #Reject invalid input.
         value = input('Not Valid! Try Again: ')
     if int(value) == 1:
@@ -101,6 +101,8 @@ if os.name == 'nt':
         sp.run(['packwiz.exe', 'refresh', '--build'], stdout=sp.DEVNULL, stderr=sp.DEVNULL)
         print('\033[32m', 'Build Successful!', '\033[0m')
     elif int(value) == 4:
+        sp.run(['packwiz.exe', 'update', '-a'], stdout=sp.DEVNULL, stderr=sp.DEVNULL)
+    elif int(value) == 5:
         exit(0)
     else:
         print('That\'s not supposed to happen!')

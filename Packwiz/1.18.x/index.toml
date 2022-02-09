@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.toml"
-hash = "78bdd72dc7a35dc19ac82f9b400ddbaf587fed2dbf2731d61063cdf49538a0af"
+hash = "fcfe7c22c78f16d203c2c92a755e496ce7a47177c57a43571abef67d12c707ee"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.toml"
-hash = "a9bf24f3525ee15992c86830fcf2eed8e36b288d9cb40018dee5c8cab73794aa"
+hash = "d46898dd985f54257db9cd8da74c954f1ae940b4e459025e93440ca200e1ed5c"
 metafile = true
 
 [[files]]
@@ -67,12 +67,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
-hash = "114395acdb903faf33561e5e653d1b4a0deed26af32781cdbb7eef2965aff1fe"
+hash = "e7844089669642da016e8899389aec7de47a7a83e48992da8af1ff77c97fffbb"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "e1e489ae4e66ec2e42d0aca91fa7c16cec0ecb835c3f1c7dab86f4372f2b2421"
+hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
 metafile = true
 
 [[files]]
@@ -82,12 +82,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabrictailor.toml"
-hash = "63285f6ca3ccda43293855fac8259fb31ab0f7a66ce956dca30b312ee650e1ba"
+hash = "8199db2e8681508130fccc08dd77b5eadb50ba28683fb95125abc2f505d16d22"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "b1d35345901743d3fe0b31f26928bac543d10eb9a16d49a5b3649343f3484779"
+hash = "6c4c39000e6ef4c4996244f26ad34217dd7e4f69f76ae2086f3818de640d885a"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/inspecio.toml"
-hash = "bce6867f72621654ca3ca06cebec58ca7ecd3d0104a20dd97e83c1aab1f9c81a"
+hash = "fefbb071ac416bf6da0bfa991d3e39336892f73b8b4758b8f39df3019b34ab86"
 metafile = true
 
 [[files]]
@@ -127,12 +127,22 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "465afb925dc6ee39704b7456750b7ada5d1000b951faadfab590efb4c5342049"
+hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
+metafile = true
+
+[[files]]
+file = "mods/loading-timer.toml"
+hash = "cb7130b2e5be43e81e9e351f038e0fc9e7fd8fcc617da03315c1ea6bac3d0609"
 metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "a0b0d6b6e4d8ec2a80c60665ae6f4d2a7d0c3b7dbab75ef9f03dbf616a5b17cc"
+hash = "0fb4ed3155243518a5690d4cc7f0d6d9bf44c4f3c5fc502853c82cc25a174ca6"
+metafile = true
+
+[[files]]
+file = "mods/microdurability.toml"
+hash = "cb3ba80dea458ce94f7f6c679f5864e28a7f3a04426551ab344cf55e77e24ee9"
 metafile = true
 
 [[files]]
@@ -142,27 +152,42 @@ metafile = true
 
 [[files]]
 file = "mods/multiconnect.toml"
-hash = "934efed75bbf6a7992d5718f145707ae83c2b27cb8fe8d9b03ffabb3e64b97bb"
+hash = "964f0648eaf11f23c62bf2e3d068450daee8d49ef5245eabb872a24aeca6e313"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.toml"
+hash = "4f9056a630be5f300b095bf9b4e268c9c1d6f85def91e590887d5c3198ae2bd1"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "3953018927bb4f7464d1c9a9a19e84e2b59a5e387ffe5ec2e79f01e8d7bb0996"
+hash = "07eb6ee9b6f6310eab0ab1b1e78938b1cf4bbb5cfe26a2f5328b3acaee5a0781"
+metafile = true
+
+[[files]]
+file = "mods/quitconfirm.toml"
+hash = "2e2e1cfaa9dbf63e23419b341cfee069cc688410360f1451a45cacbb4a9883fc"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "d4581cbd048ec6d30f4ac9349abe3eb36e7f3a400cf8282779a1177c0a0292b9"
+hash = "ae4ba5b9ad01410d986884219b5cdf026e7cfd19ed4d51f0a59059cc0a01a67f"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scrolling-everywhere-fabric.toml"
+hash = "7bcb35d7c4bf1052f934288722587ca05d6cd35fbfd21c70c6ab304ccc010395"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "d9aee3833ae4d543f820fda7f7989bee36b34556d031e614b2c4ab7e82620ff2"
+hash = "8c95fbf4fa91da74a1375e6ec69a1a3dfc25fc2a033da9be618d1e97d6619c18"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "5503fe0648bb3a63076467152d9a8acd1e8735118534d368cbfd6fd84bb4693c"
+hash = "823cf2b40b652b310a3b179ed0f58afd66b94d76b75f6b9f7adcf02fd6620577"
 metafile = true
 
 [[files]]
@@ -178,4 +203,9 @@ metafile = true
 [[files]]
 file = "mods/ugly-scoreboard-fix.toml"
 hash = "84d1a7a7386bfaddbef0a7b8f7fefc948b420d63c2378acdf4cbf02c7e8668fa"
+metafile = true
+
+[[files]]
+file = "mods/visible-barriers.toml"
+hash = "c8577b52a0590f6f51dce8b0dfc473c7edf118811e26ffafbcd2be538b6efc5b"
 metafile = true
