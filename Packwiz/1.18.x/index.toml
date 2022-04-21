@@ -81,11 +81,6 @@ hash = "8e86ff610bc28b9182eaf98fb3a98a9f7baad398f2780af7bd15661cc75ec266"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.toml"
-hash = "99fb566fe03abc87d64b6b541cbe225fa856d15c1ef7a6d4de85e6b6fb0c14e8"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "01175385fc41a95afdfe7c988c697be564bd94aabb684b764b411c700bee81dc"
 metafile = true
@@ -163,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-crashes.toml"
 hash = "3b8c2cec272a08fce467e51a52e9125d070dcdc1fc4ffc0bf7cf9b0b23e2a319"
+metafile = true
+
+[[files]]
+file = "mods/qsl.toml"
+hash = "786b7613d8ef0c5b02296c4900548f345d614246b9bbd76260a5f31cc7c57bd0"
 metafile = true
 
 [[files]]
