@@ -26,11 +26,6 @@ hash = "aa42f4f63c0ea663a7041943066d13bcd2fc115be46661123c58e28fb621085e"
 metafile = true
 
 [[files]]
-file = "mods/betterloadingscreen.toml"
-hash = "f00ec43943e5025a8a7eb386a88d871a20c3ca96451467be66694e52d595e70d"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.toml"
 hash = "e72273cbc32fb9fb946ec244e707a315ae91a7b816ac47444e5bd1cc664d29fa"
 metafile = true
@@ -81,8 +76,8 @@ hash = "c2ee93e74ad106f20b997ffb054f46189f941da0c37c73a1a97d5dd85ff530a5"
 metafile = true
 
 [[files]]
-file = "mods/essential.toml"
-hash = "3436c159595eb0f494b1c82d738dffd632c9e78cce64fc92da881142b7fecb1d"
+file = "mods/essential-gg.toml"
+hash = "8e86ff610bc28b9182eaf98fb3a98a9f7baad398f2780af7bd15661cc75ec266"
 metafile = true
 
 [[files]]
@@ -158,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "e14ec21802432c7da8fd1746c3704d4cc86a66685ae3d32c0fce88b6a7a15818"
-metafile = true
-
-[[files]]
-file = "mods/multiconnect.toml"
-hash = "c2db51f59ba60edd3ec5654a44e770f6350a041b921689b80f4b892865e1729d"
 metafile = true
 
 [[files]]
