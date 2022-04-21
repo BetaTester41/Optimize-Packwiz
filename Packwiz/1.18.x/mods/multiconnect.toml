@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/sfEDKnlo/versions/1.5.10/multiconnect-1.5.10.jar"
-hash-format = "sha512"
-hash = "ea417f3c3634645044d14bcb88fbea8bc4b54f4a92398d38ab31adbd2bbbbc67acf0d74f1d2fdedaffcf7cccb083f7939e1a83b35400c076ab2668143f43855f"
+hash-format = "sha1"
+hash = "c1c35a8057b2d5d43814729769d84f71e9564019"
 
 [update]
 [update.modrinth]

@@ -1,13 +1,13 @@
 name = "FabricTailor"
-filename = "fabrictailor-1.8.0.jar"
+filename = "fabrictailor-1.8.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3607/601/fabrictailor-1.8.0.jar"
-hash-format = "murmur2"
-hash = "4038565406"
+url = "https://edge.forgecdn.net/files/3707/64/fabrictailor-1.8.1.jar"
+hash-format = "sha1"
+hash = "3d8b869bfeaa07f0c2299f9ede18d2dd8b2dfea2"
 
 [update]
 [update.curseforge]
-file-id = 3607601
+file-id = 3707064
 project-id = 390114

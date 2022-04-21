@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3631/944/SmoothScrollingEverywhere-3.0.4.jar"
-hash-format = "murmur2"
-hash = "1937482971"
+hash-format = "sha1"
+hash = "f037b49c28a57681c4b11ffb241ab985e2ed57a9"
 
 [update]
 [update.curseforge]

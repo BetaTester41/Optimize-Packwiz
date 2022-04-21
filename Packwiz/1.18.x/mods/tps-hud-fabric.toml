@@ -1,0 +1,13 @@
+name = "TPS Hud (Fabric)"
+filename = "tps-hud-1.2-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3753/593/tps-hud-1.2-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "cbaa2ca568139343479a78092aa74308858d9ab5"
+
+[update]
+[update.curseforge]
+file-id = 3753593
+project-id = 610618

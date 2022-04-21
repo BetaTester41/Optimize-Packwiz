@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3624/328/microDurability-0.3.2+1.18.1.jar"
-hash-format = "murmur2"
-hash = "1681479005"
+hash-format = "sha1"
+hash = "794cb2eab8467d1260482d4afd07ce7d0c8fd05c"
 
 [update]
 [update.curseforge]

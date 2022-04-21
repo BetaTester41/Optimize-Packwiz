@@ -1,13 +1,13 @@
 name = "Camera Utils"
-filename = "camerautils-1.18.1-1.0.0.jar"
+filename = "camerautils-1.18.2-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3557/166/camerautils-1.18.1-1.0.0.jar"
-hash-format = "murmur2"
-hash = "1337307691"
+url = "https://edge.forgecdn.net/files/3742/271/camerautils-1.18.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "b9b234d12a9c2b89e2dd14aa71e8fdcddc4320a9"
 
 [update]
 [update.curseforge]
-file-id = 3557166
+file-id = 3742271
 project-id = 510234

@@ -1,8 +1,13 @@
 name = "Visible Barriers"
-filename = "visiblebarriers-1.3.1.jar"
-side = "client"
+filename = "visible-barriers-1.18.2-fabric-1.4.1.jar"
+side = "both"
 
 [download]
-url = "https://media.forgecdn.net/files/3478/580/visiblebarriers-1.3.1.jar"
-hash-format = "sha256"
-hash = "ec5c4b17d7a07d0cbab653e820dd9ee6714f9f9359cfbabdf65f16812cc0b372"
+url = "https://edge.forgecdn.net/files/3745/861/visible-barriers-1.18.2-fabric-1.4.1.jar"
+hash-format = "sha1"
+hash = "678deec5773487224c75034160b40a5021b934aa"
+
+[update]
+[update.curseforge]
+file-id = 3745861
+project-id = 507228
