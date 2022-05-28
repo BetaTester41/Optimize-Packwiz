@@ -1,4 +1,4 @@
-name = "Optimize"
+name = "Quilt Optimize"
 author = "BetaTester41"
 version = "v1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7176bf324dd42398a4e41175bfd6b0ac2e492626b9d9879eb106e686c9da978a"
+hash = "12c1bcf055f8e71943933b1eb49faa33073a9747b7d62026c6a7cb89557e8318"
 
 [versions]
 minecraft = "1.18.2"

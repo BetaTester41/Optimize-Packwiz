@@ -36,11 +36,6 @@ hash = "fbdaf57021062d11aeb12a094abba257a13da22e2a8ed4b1cd9ab3bc85274ae7"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config-legacy.pw.toml"
-hash = "ebb8d0a31f63dfb0d248ff7748cebe42913f5541bb0e2b44346ca4b5d1d7544d"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
 metafile = true
@@ -72,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "65370d3a87c7eadaa75ebf3c00cbff34cf206f88fa54c0d13da1225d7c4bf862"
+hash = "e075e0b77fafbf166171df8412138fe15cb6d6f6dbbe96129349dce357d70d9c"
 metafile = true
 
 [[files]]
@@ -157,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/name-pain.pw.toml"
-hash = "1fc0f8c34ceb85f630ee60d47eea2eb80d9b078004a3899a8a75e1d68dc18c32"
+hash = "554fe9602eefc7f26ce62f565f25d836dcdc89b68810231a0bb02c4afa3a7ef8"
 metafile = true
 
 [[files]]

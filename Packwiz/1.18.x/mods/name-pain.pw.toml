@@ -3,9 +3,10 @@ filename = "namepain-1.4.0 fabric-1.17.x.jar"
 side = "both"
 
 [download]
+url = "https://media.forgecdn.net/files/3352/348/namepain-1.4.0+fabric-1.17.x.jar"
 hash-format = "sha1"
 hash = "58ca86413dc465f5d1a1b36bd8a8fd0bb9a84e47"
-mode = "metadata:curseforge"
+mode = ""
 
 [update]
 [update.curseforge]
