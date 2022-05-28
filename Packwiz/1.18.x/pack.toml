@@ -1,17 +1,16 @@
 name = "Optimize"
 author = "BetaTester41"
-version = "1.18.x"
-pack-format = "packwiz:1.0.0"
+version = "v1"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "824a2464c34835c71a3bce053abf1f56618c2d2a4c538412471d524f4e40da58"
 
 [versions]
 minecraft = "1.18.2"
-quilt = "0.16.0-beta.7"
+quilt = "0.16.1"
 
 [options]
-acceptable-game-versions = ["1.18.1", "1.18"]
+acceptable-game-versions = ["1.18", "1.18.1"]
 no-internal-hashes = "true"

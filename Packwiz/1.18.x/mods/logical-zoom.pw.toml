@@ -1,0 +1,13 @@
+name = "Logical Zoom"
+filename = "logical_zoom-0.0.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6e1d753b4fba6e7eb2cb5729376cafc7937213a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3667604
+project-id = 356461

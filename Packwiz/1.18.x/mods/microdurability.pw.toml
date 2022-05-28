@@ -1,0 +1,13 @@
+name = "microDurability"
+filename = "microdurability-0.3.3+1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c732cd377928d6545b6abe8598a1d71c35dbfd3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3793011
+project-id = 409222

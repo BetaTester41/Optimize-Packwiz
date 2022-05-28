@@ -45,7 +45,7 @@ if os.name == 'nt':
                 clean = line.strip();
                 if curse.match(clean):
                     id = curse.match(clean).group()
-                    process = sp.run(['echo', dep, '|', 'packwiz.exe', 'cf', 'install', id], shell=True, stdout=sp.DEVNULL, stderr=sp.DEVNULL)
+                    process = sp.run(['echo', dep, '|', 'packwiz.exe', 'cf', 'install', '--addon-id', id], shell=True, stdout=sp.DEVNULL, stderr=sp.DEVNULL)
                     if process.returncode != 0:
                         print('\033[31m', 'Mod ID:', id, 'failed to install! The mod may be unavailable or incompatible. Curseforge', '\033[0m')
                     else:
