@@ -16,6 +16,9 @@ My (auto-updating) mod pack with the help of Packwiz. Only compatible with Multi
 - Follow the on screen instrustions.
 - Upload the `Packwiz` folder to any file service.
 - Learn more [here](https://packwiz.infra.link/tutorials/getting-started/) for how to distrube the file.
+
+## TODO
+idk
 ## Credits
 [Packwiz](https://github.com/comp500/packwiz) by [comp500](https://github.com/comp500)
 
